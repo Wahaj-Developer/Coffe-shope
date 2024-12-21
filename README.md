@@ -1,2 +1,2 @@
 # Coffe-shope
-My fir projrct of order me a cofee
+My first projrct of order me a cofee
